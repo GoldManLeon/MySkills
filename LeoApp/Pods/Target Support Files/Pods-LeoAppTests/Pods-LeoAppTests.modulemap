@@ -1,6 +1,0 @@
-framework module Pods_LeoAppTests {
-  umbrella header "Pods-LeoAppTests-umbrella.h"
-
-  export *
-  module * { export * }
-}

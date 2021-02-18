@@ -1,0 +1,6 @@
+framework module Pods_LeoApp {
+  umbrella header "Pods-LeoApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
